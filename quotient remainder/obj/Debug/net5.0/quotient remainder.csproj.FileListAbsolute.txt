@@ -1,0 +1,16 @@
+C:\Users\churchill paul\source\repos\quotient remainder\quotient remainder\obj\Debug\net5.0\quotient remainder.csproj.AssemblyReference.cache
+C:\Users\churchill paul\source\repos\quotient remainder\quotient remainder\obj\Debug\net5.0\quotient remainder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\churchill paul\source\repos\quotient remainder\quotient remainder\obj\Debug\net5.0\quotient remainder.AssemblyInfoInputs.cache
+C:\Users\churchill paul\source\repos\quotient remainder\quotient remainder\obj\Debug\net5.0\quotient remainder.AssemblyInfo.cs
+C:\Users\churchill paul\source\repos\quotient remainder\quotient remainder\obj\Debug\net5.0\quotient remainder.csproj.CoreCompileInputs.cache
+C:\Users\churchill paul\source\repos\quotient remainder\quotient remainder\bin\Debug\net5.0\quotient remainder.exe
+C:\Users\churchill paul\source\repos\quotient remainder\quotient remainder\bin\Debug\net5.0\quotient remainder.deps.json
+C:\Users\churchill paul\source\repos\quotient remainder\quotient remainder\bin\Debug\net5.0\quotient remainder.runtimeconfig.json
+C:\Users\churchill paul\source\repos\quotient remainder\quotient remainder\bin\Debug\net5.0\quotient remainder.runtimeconfig.dev.json
+C:\Users\churchill paul\source\repos\quotient remainder\quotient remainder\bin\Debug\net5.0\quotient remainder.dll
+C:\Users\churchill paul\source\repos\quotient remainder\quotient remainder\bin\Debug\net5.0\quotient remainder.pdb
+C:\Users\churchill paul\source\repos\quotient remainder\quotient remainder\obj\Debug\net5.0\quotient remainder.dll
+C:\Users\churchill paul\source\repos\quotient remainder\quotient remainder\obj\Debug\net5.0\refint\quotient remainder.dll
+C:\Users\churchill paul\source\repos\quotient remainder\quotient remainder\obj\Debug\net5.0\quotient remainder.pdb
+C:\Users\churchill paul\source\repos\quotient remainder\quotient remainder\obj\Debug\net5.0\quotient remainder.genruntimeconfig.cache
+C:\Users\churchill paul\source\repos\quotient remainder\quotient remainder\obj\Debug\net5.0\ref\quotient remainder.dll
